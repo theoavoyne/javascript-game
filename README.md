@@ -1,0 +1,1 @@
+Clean Javascript click game!
